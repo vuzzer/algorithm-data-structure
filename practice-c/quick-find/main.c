@@ -18,4 +18,3 @@ main(){
     }
     
 }
-Several algorithms and data structures are implemented and explained following an algorithm design canvas
